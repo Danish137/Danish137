@@ -7,15 +7,18 @@ on:
 
 jobs:
   build:
-    permissions:
-      contents: write   
-
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT for writing back to repo
 
-      - uses: Platane/snk@master
+      - name: Generate snake
+        uses: Platane/snk@master
         with:
           github_user_name: Danish137
           svg_out_path: github-snake.svg
@@ -25,10 +28,11 @@ jobs:
           color_dots: "#0f172a"
           color_dots_empty: "#020617"
 
-      - name: Commit and push
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-snake.svg
-          git commit -m "Update snake" || echo "No changes"
-          git push
+
+          git add github-snake.svg || exit 1
+          git commit -m "Update snake" || echo "No changes to commit"
+          git push origin main
