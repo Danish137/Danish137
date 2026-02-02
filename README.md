@@ -17,7 +17,10 @@
    <a href="https://x.com/imdanishakhtar7" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" />  </a>
    <a href="https://discord.com/users/914040035798556673" target="_blank"><img src="https://skillicons.dev/icons?i=discord" />  </a>
   <a href="https://www.instagram.com/imdanish_7" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" />  </a>
-  <a href="mailto:imdanishakhtar7@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" />  </a>
+  <a href="mailto:imdanishakhtar7@gmail.com" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+</a>
+
   </div>
 </div>
 
@@ -155,5 +158,6 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
 
 
