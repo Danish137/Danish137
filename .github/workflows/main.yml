@@ -15,24 +15,27 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # IMPORTANT for writing back to repo
+          fetch-depth: 0
 
       - name: Generate snake
         uses: Platane/snk@master
         with:
           github_user_name: Danish137
           svg_out_path: github-snake.svg
+
+          # 🔥 THIS IS THE IMPORTANT PART
+          snake_color: "#22c55e"
+          snake_head_color: "#4ade80"
+          snake_tail_color: "#16a34a"
+          dots_color: "#0f172a"
+          dots_empty_color: "#020617"
           outputs: |
             github-snake.svg
-          color_snake: "#22c55e"
-          color_dots: "#0f172a"
-          color_dots_empty: "#020617"
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add github-snake.svg || exit 1
-          git commit -m "Update snake" || echo "No changes to commit"
+          git add github-snake.svg
+          git commit -m "Update snake" || echo "No changes"
           git push origin main
