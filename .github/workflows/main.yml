@@ -18,23 +18,11 @@ jobs:
           fetch-depth: 0
 
       - name: Generate snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: Danish137
-          svg_out_path: github-snake.svg
-
-          
-          pattern: github
-
-          
-          snake_color: "#22c55e"
-          snake_head_color: "#4ade80"
-          snake_tail_color: "#16a34a"
-          dots_color: "#0f172a"
-          dots_empty_color: "#020617"
-
           outputs: |
-            github-snake.svg
+            github-snake.svg?palette=github-dark
 
       - name: Commit and push
         run: |
