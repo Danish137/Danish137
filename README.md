@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <div align="center">
-    <h1>Danish AKhtar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
+    <h1>Danish Akhtar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
   <h3>AI Enthusiast 💻</h3>
 </div>
 
@@ -9,7 +9,7 @@
   <div style="max-width: calc(100% - 420px);">
     <h3> 🐦‍🔥 About me:</h3>
     <p> 👨‍💻 Looking for Job</p>
-    <p> 🌱 Currently building & exploring AI system & backend infra</p>
+    <p> 🌱 Building & exploring AI system & backend infra</p>
     <p> 💖 Interests:  Tech💻, Cinematography🎦, Books📚</p>
    </p>
     <b> 📫 Reach me at: </b><br> 
@@ -29,7 +29,7 @@
   <h2>🧠 Agentic AI & Autonomous Systems</h2>
 
   <p align="center">
-    <i>Building production-oriented agent systems that reason, retrieve, and execute reliably</i>
+    <i>I build AI agents that retrieve information, reason over it, and act through reliable backends.</i>
   </p>
 
   <table>
@@ -147,5 +147,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AkashJana18&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
