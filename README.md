@@ -24,7 +24,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="./github-snake.svg" width="100%" />
+  <img src="./github-snake.svg?raw=true" width="100%" />
 </p>
 
 <!-- AGENTIC AI & SYSTEMS -->
@@ -155,4 +155,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
 
