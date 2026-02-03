@@ -12,30 +12,33 @@
     <p> 🌱 Building & exploring AI system & backend infra</p>
     <p> 💖 Interests:  Tech💻, Cinematography🎦, Books📚</p>
    </p>
-    <b> 📫 Reach me at: </b><br> 
+    <b> 📫 Reach me at: </b><br>
+
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+
   <a href="https://www.linkedin.com/in/imdanishakhtar137/" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://x.com/imdanishakhtar7" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
+  <a href="https://x.com/imdanishakhtar7" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 
-<a href="https://discord.com/users/914040035798556673" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</a>
+  <a href="https://discord.com/users/914040035798556673" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 
-<a href="https://www.instagram.com/imdanish_7" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+  <a href="https://www.instagram.com/imdanish_7" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 
-<!-- Gmail MUST be markdown, not HTML -->
-[![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:imdanishakhtar7@gmail.com)
+  <!-- Gmail: pure HTML so it stays in the same row -->
+  <a href="mailto:imdanishakhtar7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
 
-
-
-  </div>
 </div>
+
 
 ## 🐍 GitHub Contribution Snake
 
@@ -171,6 +174,7 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
 
 
 
