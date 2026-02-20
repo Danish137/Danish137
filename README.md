@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <div align="center">
     <h1>Danish Akhtar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
-  <h3>AI Enthusiast 💻</h3>
 </div>
 
 ## 🎙️ Talk to my AI twin
-
-A conversational agent that responds as me — not a chatbot.
-
+<p align="center">
+A conversational agent that responds as me.
+</p>
 <p align="center">
   <a href="https://digital-twin-danish.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Start_Conversation-4F46E5?style=for-the-badge&logo=googleassistant&logoColor=white" />
@@ -189,6 +188,7 @@ A conversational agent that responds as me — not a chatbot.
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
 
 
 
