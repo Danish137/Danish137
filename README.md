@@ -21,8 +21,8 @@ A conversational agent that responds as me.
 <div style="display: flex; align-items: flex-start; justify-content: end;">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
   <div style="max-width: calc(100% - 420px);">
-    <h3> 🐦‍🔥 About me:</h3>
-    <p> 🌱 Building & exploring AI system & backend infra</p>
+    <h3>🐦‍🔥 About me:</h3>
+    <p>🌱 Building & exploring AI system & backend infra</p>
     <p> 💖 Interests:  Tech💻, Cinematography🎦, Books📚</p>
    </p>
     <b> 📫 Reach me at: </b><br>
