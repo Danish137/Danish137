@@ -8,7 +8,7 @@
 A conversational agent that responds as me.
 </p>
 <p align="center">
-  <a href="https://digital-twin-danish.streamlit.app/" target="_blank">
+  <a href="https://twin.danisakhtar.in/" target="_blank">
     <img src="https://img.shields.io/badge/Start_Conversation-4F46E5?style=for-the-badge&logo=googleassistant&logoColor=white" />
   </a>
 </p>
@@ -21,7 +21,8 @@ A conversational agent that responds as me.
 <div style="display: flex; align-items: flex-start; justify-content: end;">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
   <div style="max-width: calc(100% - 420px);">
-    <h3>🐦‍🔥 About me:</h3>
+    <h3>🐦‍🔥 About me:</h3>
+
     <p>🌱 Building & exploring AI system & backend infra</p>
     <p> 💖 Interests:  Tech💻, Cinematography🎦, Books📚</p>
    </p>
