@@ -12,11 +12,6 @@ A conversational agent that responds as me.
     <img src="https://img.shields.io/badge/Start_Conversation-4F46E5?style=for-the-badge&logo=googleassistant&logoColor=white" />
   </a>
 </p>
-    <h3>🐦‍🔥 About me:</h3>
-
-    <p>🌱 Building & exploring AI system & backend infra</p>
-    <p> 💖 Interests:  Tech💻, Cinematography🎦, Books📚</p>
-   </p>
     <b> 📫 Reach me at: </b><br>
 
 <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
