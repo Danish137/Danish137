@@ -40,11 +40,7 @@ A conversational agent that responds as me.
 </div>
 
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="./github-snake.svg?raw=true" width="100%" />
-</p>
 
 <!-- AGENTIC AI & SYSTEMS -->
 <div align="center">
